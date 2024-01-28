@@ -1,5 +1,5 @@
 import './App.css';
-import video from './video/Hardik-Ankita.mp4'
+import video from './video/video.mp4'
 
 function App() {
   return (
